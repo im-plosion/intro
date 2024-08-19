@@ -1,0 +1,102 @@
+<DOCTYPE html>
+    <html lang="es">
+      <head>
+          <meta charset="utf-8">
+            <link rel="stylesheet" href="">
+        <h1 id="title">Ranquea tus clases personalizadas (o゜▽゜)o☆</h1>
+          <p id="description">Ayúdame al mejoramiento continuo de tu proceso de aprendizaje</p>
+            <form 
+            id="survey-form">
+              <fieldset>
+              <label for="Nombre"
+              id="name-label">Nombre
+              <input 
+              id="name" 
+              type="text" 
+              placeholder="text" required />
+                </label>
+              <label for="Correo electrónico"
+              id="email-label">Correo electrónico 
+              <input 
+              id="email" 
+              type="email" 
+              placeholder="email" required />
+              </label>
+              <label for="Edad"
+              id="number-label">Edad
+              <input 
+              id="number" 
+              type="number" 
+              min="7" 
+              max="80" 
+              placeholder="123" /> 
+              <form name="#survey-form">
+              </label>
+              </fieldset>
+              <div>
+                <p>¿Cuál es tu intensidad horaria (semanal)</p>
+                  <select id="dropdown"/>
+                  <option disable selected value>Elige una opción</option>
+                  <option value="una">1 hora</option>
+                  <option value="dos">2 horas</option>
+                  <option value="tres">3 horas o más</option>
+                    </select>
+                    </div>
+      <div>
+        <p>¿Recomendarías las clases a otra persona?</p>
+      <label for="si">
+        <input 
+        type="radio" 
+        id="Sí" 
+        name="preferencia" 
+        class="inline" 
+        value="Sí" 
+        checked />Sí
+        </label>
+      <label for="no">
+        <input id="No" 
+        type="radio" 
+        name="preferencia" 
+        class="inline" 
+        value="No" />No
+        </label>
+            </div>
+            <div class="form-group">
+            <p>¿Qué te gustaría incluir a tus clases personalizadas?</p>
+            <label>
+              <input 
+              value="sesiones-grupales"
+              name="grupos" 
+              type="checkbox" 
+              class="input-checkbox" />
+              Sesiones grupales (Con otros estudiantes)
+              </label>
+               <label><input
+              value="simulacros-evaluativos" 
+              name="simulacro" 
+              type="checkbox" 
+              class="input-checkbox" />
+              Simulacros evaluativos
+              </label>
+               <label>
+              <input 
+              name="breaks" 
+              value="breaks"
+              type="checkbox" 
+              class="input-checkbox" />
+              Breaks o pausas activas
+              </label>
+              </div>
+              <div clas="form-group">
+              <p>Deja aquí tus sugerencias o comentarios adicionales<p>
+              <textarea
+              id="comments"
+              class="input-textarea"
+              name="comment"
+              placeholder="Enter your comment here...">
+              </textarea>
+              <div>
+      <button type="submit" id="submit">Enviar
+        </div>
+         </form>
+    </html>
