@@ -4,8 +4,8 @@
   
   body {
     margin: 0;
-    font-family: sans-serif;
-    background: #f5f6f7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #c1ccd6;
   }
   
   .header {
