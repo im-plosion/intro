@@ -35,5 +35,6 @@
     object-fit: cover;
     border-radius: 15px;
   }
+  /* Pseudo elements son utilizados para dar estilo a una parte especifica de un elemento */
   .gallery::after { content: "";
     width: 350px; }
