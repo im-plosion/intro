@@ -5,7 +5,7 @@
   body {
     margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background: #c1ccd6;
+    background: #040f1a;
   }
   
   .header {
@@ -14,7 +14,7 @@
     padding: 32px;
     background-color: #0a0a23;
     color: #fff;
-    border-bottom: 4px solid #fdb347;
+    border-bottom: 4px solid #2f487e;
   }
   .gallery {
     display: flex;
