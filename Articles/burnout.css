@@ -49,3 +49,4 @@ text-align: center;
 .author { font-size: 2rem;
     font-family: Raleway, sans-serif;
 }
+.author-name a:hover { background-color:#0e4755c9;}
