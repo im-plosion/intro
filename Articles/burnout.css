@@ -14,3 +14,4 @@ body {
   h2, h3, h4, h5, h6 { font-family: Raleway, sans-serif;}
   a { text-decoration: wavy;
 color: rgba(0, 0, 0, 0.822); }
+main { display: grid;}
