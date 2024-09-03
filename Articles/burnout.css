@@ -86,7 +86,7 @@ align-items: center;
 grid-template-columns: 1fr 2fr;
 column-gap: 3rem;
 margin-bottom: 3rem;
-margin-left: 4rem;
+margin-right: 4rem;
 }
 .lists { list-style-type: none;
 margin-top: 2rem;}
