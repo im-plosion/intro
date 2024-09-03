@@ -85,4 +85,8 @@ margin-bottom: 3rem;
 margin-top: 2rem;}
 .lists li { margin-bottom: 1.5rem;}
 .list-title, .list-subtitle { color: #694a06}
-.image-wrapper { display: grid;}
+.image-wrapper { display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: repeat(3, min-content);
+    gap: 2rem;
+}
