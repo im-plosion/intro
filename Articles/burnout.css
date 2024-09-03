@@ -74,6 +74,5 @@ align-items: center;
     text-align: center;
     font-family: Raleway, sans-serif;
 }
-.quote::before { content: "";}
 .quote::before { content:'" ' ;}
 .quote::after { content: ' "'; }
