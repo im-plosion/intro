@@ -51,3 +51,4 @@ text-align: center;
 }
 .author-name a:hover { background-color:#0e4755c9;}
 .publish-date { color: rgba(8, 8, 8, 0.5); }
+.social-icons { display: grid;}
