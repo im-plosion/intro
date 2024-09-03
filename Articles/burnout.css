@@ -40,4 +40,5 @@ main {
     position: relative;
   }
   .hero-title { text-align: center;
-color: orangered;}
+color: orangered;
+font-size: 8rem;}
