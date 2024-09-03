@@ -69,6 +69,11 @@ align-items: center;
     float: left;
   margin-right: 1rem;
 }
+.second-paragraph::first-letter { font-size: 6rem; 
+    color: orangered; 
+    float: left;
+  margin-right: 1rem;
+  margin-bottom: 3rem;}
 .quote { color: #7a1123;
     font-size: 2.4rem;
     text-align: center;
