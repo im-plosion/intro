@@ -85,3 +85,4 @@ margin-bottom: 3rem;
 margin-top: 2rem;}
 .lists li { margin-bottom: 1.5rem;}
 .list-title, .list-subtitle { color: #694a06}
+.image-wrapper { display: grid;}
