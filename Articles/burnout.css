@@ -116,6 +116,12 @@ margin-top: 2rem;}
     width: 500px;
     height: 400px;
   }
+  .image-4 {
+    grid-column: 1 / 2;
+    object-fit: fill;
+    width: 500px;
+    height: 400px;
+  }
 
 @media only screen and (max-width: 600px) {
     .image-wrapper { grid-template-columns: 1fr; }} 
