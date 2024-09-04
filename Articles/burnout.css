@@ -117,7 +117,7 @@ margin-top: 2rem;}
     height: 400px;
   }
   .image-4 {
-    grid-column: 3 / 3;
+    grid-column: 2 / 3;
     object-fit: fill;
     width: 500px;
     height: 400px;
