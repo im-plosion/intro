@@ -18,7 +18,7 @@ color: rgba(0, 0, 0, 0.822); }
 main {
     display: grid;
     grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
-    row-gap: 5rem;
+    row-gap: 7rem;
   }
   img {
     width: 100%;
