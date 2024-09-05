@@ -48,6 +48,7 @@ main {
   column-width: 25rem;
   text-align: justify;
   word-spacing: 0mm;
+  white-space: pre;
   }
   
   .hero {
