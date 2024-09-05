@@ -38,10 +38,9 @@ main {
     text-decoration-thickness: 5px;
     grid-column: 2 / 3;
     font-size: 1.8rem;
-  letter-spacing: 0.1px;
   column-width: 25rem;
   text-align: justify;
-  word-spacing: normal;
+  word-spacing: 0mm;
   }
   
   .hero {
