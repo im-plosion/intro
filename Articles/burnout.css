@@ -76,7 +76,7 @@ align-items: center;
     float: left;
   margin-right: 1rem;
   margin-bottom: 3rem;}
-.quote { color: #7711a7e5;
+.quote { color: #a7c7d6e5;
     font-size: 2.4rem;
     text-align: center;
     font-family: Raleway, sans-serif;
@@ -93,7 +93,7 @@ margin-right: 4rem;
 .lists { list-style-type: none;
 margin-top: 2rem;}
 .lists li { margin-bottom: 1.5rem;}
-.list-title, .list-subtitle { color: #f5c0fc}
+.list-title, .list-subtitle { color: #f5c0fcd0}
 .image-wrapper { display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(3, min-content);
