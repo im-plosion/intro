@@ -62,7 +62,8 @@ text-shadow: 1px 1px #f5f0f0;
   height: 100px;
   background: red;
   transition: width 2s;
-  transition-timing-function: linear;}
+  transition-timing-function: initial;
+}
 .hero-title:hover { width: 300px; }
 .hero-subtitle { font-size: 2.4rem;
 color: rgba(255, 68, 0, 0.801);
