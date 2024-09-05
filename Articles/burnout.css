@@ -47,10 +47,10 @@ main {
     position: relative;
   }
   .hero-title { text-align: center;
-color: orangered;
+color: rgba(255, 68, 0, 0.89);
 font-size: 8rem;}
 .hero-subtitle { font-size: 2.4rem;
-color: orangered;
+color: rgba(255, 68, 0, 0.801);
 text-align: center;
 }
 .author { font-size: 2rem;
@@ -67,7 +67,7 @@ grid-auto-columns: 1fr;
 align-items: center; 
 }
 .first-paragraph::first-letter { font-size: 6rem; 
-    color: orangered; 
+    color: rgba(252, 71, 5, 0.815); 
     float: left;
   margin-right: 1rem;
 }
@@ -93,7 +93,7 @@ margin-right: 4rem;
 .lists { list-style-type: none;
 margin-top: 2rem;}
 .lists li { margin-bottom: 1.5rem;}
-.list-title, .list-subtitle { color: #f5c0fcd0}
+.list-title, .list-subtitle { color: #eac8eeaf}
 .image-wrapper { display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(3, min-content);
