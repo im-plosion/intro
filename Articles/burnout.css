@@ -24,7 +24,7 @@ main {
     width: 100%;
     object-fit: cover;
     opacity: 0.6;
-    border-radius: 3px;
+    border-radius: 8px;
   }
   hr { border: 1px solid rgba(92, 113, 153, 0.692);
     margin: 1.5rem 0;}
