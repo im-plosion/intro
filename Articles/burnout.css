@@ -122,6 +122,7 @@ margin-top: 2rem;}
     width: 580px;
     height: 400px;
     opacity: 0.8;
+    border-radius: 10px;
   }
   .image-3 {
     grid-column: 1 / 2;
@@ -129,6 +130,7 @@ margin-top: 2rem;}
     width: 580px;
     height: 400px;
     opacity: 0.81;
+    border-radius: 10px;
   }
   .image-4 {
     grid-column: 2 / 3;
@@ -136,6 +138,7 @@ margin-top: 2rem;}
     width: 580px;
     height: 400px;
     opacity: 0.8;
+    border-radius: 10px;
   }
 
 @media only screen and (max-width: 600px) {
