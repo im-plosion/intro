@@ -45,10 +45,9 @@ main {
     text-decoration-thickness: 10px;
     grid-column: 2 / 3;
     font-size: 1.8rem;
-  column-width: 25rem;
-  text-align: justify;
-  word-spacing: 0mm;
-  white-space: pre;
+   column-width: 25rem;
+   text-align: justify;
+   word-spacing: 0mm;
   }
   
   .hero {
@@ -59,7 +58,12 @@ main {
 color: rgba(255, 68, 0, 0.89);
 font-size: 8rem;
 text-shadow: 1px 1px #f5f0f0;
-}
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+  transition-timing-function: linear;}
+.hero-title:hover { width: 300px; }
 .hero-subtitle { font-size: 2.4rem;
 color: rgba(255, 68, 0, 0.801);
 text-align: center;
