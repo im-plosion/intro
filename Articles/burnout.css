@@ -35,6 +35,7 @@ main {
   }
   
   .text {
+    text-decoration-thickness: 2px;
     grid-column: 2 / 3;
     font-size: 1.8rem;
   letter-spacing: 0.1px;
