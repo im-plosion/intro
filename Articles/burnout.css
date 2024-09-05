@@ -20,15 +20,15 @@ main {
     grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
     row-gap: 7rem;
   }
-  img {
+  .hero-img {
     width: 100%;
     object-fit: cover;
     opacity: 0.6;
     border-radius: 8px;
     position: absolute;
-  left: 0px;
-  top: 0px;
-    z-index: -1;
+    left: 0px;
+    top: 0px;
+    z-index: -2;
   }
   hr { border: 1px solid rgba(92, 113, 153, 0.692);
     margin: 1.5rem 0;}
