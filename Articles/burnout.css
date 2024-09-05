@@ -26,9 +26,9 @@ main {
     opacity: 0.6;
     border-radius: 8px;
     position: absolute;
-    left: 0px;
-    top: 0px;
-    z-index: -2;
+    left: 10px;
+    top: 10px;
+    z-index: -1;
   }
   hr { border: 1px solid rgba(92, 113, 153, 0.692);
     margin: 1.5rem 0;}
