@@ -4,7 +4,7 @@
 html { font-size: 68.5%;}
 body {
     font-family: 'Baskervville', serif;
-    color: rgba(202, 198, 199, 0.822);
+    color: rgba(216, 214, 218, 0.822);
     background-color: rgba(0, 0, 0, 0.945);
     margin-bottom: 3rem;
   }
@@ -14,7 +14,7 @@ body {
   }
   h2, h3, h4, h5, h6 { font-family: Raleway, sans-serif;}
   a { text-decoration: wavy;
-color: rgba(241, 225, 225, 0.822); }
+color: rgba(238, 241, 225, 0.822); }
 main {
     display: grid;
     grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
@@ -67,7 +67,7 @@ text-align: center;
 }
 .author-name a:hover { background-color:#1e8566d5;
 color: rgb(242, 255, 240);}
-.publish-date { color: rgba(189, 186, 186, 0.856); }
+.publish-date { color: rgba(235, 235, 235, 0.897); }
 .social-icons { display: grid;
 font-size: 3rem;
 grid-template-columns: repeat(5, 1fr);
