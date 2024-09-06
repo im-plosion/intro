@@ -4,7 +4,7 @@
 html { font-size: 68.5%;}
 body {
     font-family: 'Baskervville', serif;
-    color: rgba(198, 201, 202, 0.822);
+    color: rgba(202, 198, 199, 0.822);
     background-color: rgba(0, 0, 0, 0.945);
     margin-bottom: 3rem;
   }
@@ -66,7 +66,7 @@ text-align: center;
     font-family: Raleway, sans-serif;
 }
 .author-name a:hover { background-color:#1e8566d5;
-color: aliceblue;}
+color: rgb(242, 255, 240);}
 .publish-date { color: rgba(189, 186, 186, 0.856); }
 .social-icons { display: grid;
 font-size: 3rem;
