@@ -4,7 +4,7 @@
 html { font-size: 68.5%;}
 body {
     font-family: 'Baskervville', serif;
-    color: rgba(216, 214, 218, 0.822);
+    color: rgba(218, 216, 214, 0.822);
     background-color: rgba(0, 0, 0, 0.945);
     margin-bottom: 3rem;
   }
@@ -14,7 +14,7 @@ body {
   }
   h2, h3, h4, h5, h6 { font-family: Raleway, sans-serif;}
   a { text-decoration: wavy;
-color: rgba(238, 241, 225, 0.822); }
+color: rgba(241, 239, 225, 0.897); }
 main {
     display: grid;
     grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
@@ -31,7 +31,7 @@ main {
     bottom: 10px;
     z-index: -1; */
   }
-  hr { border: 1px solid rgba(92, 113, 153, 0.692);
+  hr { border: 1px solid rgba(243, 243, 236, 0.692);
     margin: 1.5rem 0;}
   
   .heading {
@@ -102,7 +102,7 @@ margin-right: 4rem;
 .lists { list-style-type: none;
 margin-top: 2rem;}
 .lists li { margin-bottom: 1.5rem;}
-.list-title, .list-subtitle { color: #c2d6eec0}
+.list-title, .list-subtitle { color: #d7e2f0c0}
 .image-wrapper { display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(3, min-content);
