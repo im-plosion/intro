@@ -149,7 +149,12 @@ margin-top: 2rem;}
     opacity: 0.8;
     border-radius: 10px;
   }
+<<<<<<< HEAD
   .fa-linkedin-in:hover, .fa-github:hover, .fa-twitter:hover, .fa-share-alt-square:hover{
+=======
+
+.fa-linkedin-in:hover, .fa-github:hover, .fa-twitter:hover, .fa-share-alt-square:hover{
+>>>>>>> 11f7bfed13982b100d9056a65418d897e1fd1b17
     background-color: #f0f8ff2a;
     transform: scale(1.1); 
     transition: 0.2s;
