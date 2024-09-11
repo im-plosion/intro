@@ -235,8 +235,8 @@ hr {
 }
 
 h5 {
-  font-size: 8rem;
-  text-emphasis-style: double-circle;
+  font-size: 3rem;
+  font-family: Raleway, sans-serif;
 }
 
 @media only screen and (max-width: 600px) {
