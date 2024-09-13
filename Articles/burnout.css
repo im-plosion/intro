@@ -53,6 +53,7 @@ main {
 
 hr {
   border: 1px solid rgba(243, 243, 236, 0.692);
+  border-bottom: 1px solid rgba(243, 243, 236, 0.692);
   margin: 1.5rem 0;
 }
 
@@ -116,9 +117,9 @@ hr {
   grid-auto-columns: 1fr;
   align-items: center;
 }
-.second-paragraph, .third-paragraph, .fourth-paragraph { font-size: 2rem;
-text-align: end;
-grid-column: 2 / 2;
+.second-paragraph, .third-paragraph, .fourth-paragraph { font-size: 1.8rem;
+text-align: justify;
+grid-column: 3 / 1;
 }
 
 .first-paragraph::first-letter {
