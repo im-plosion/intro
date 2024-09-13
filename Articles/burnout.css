@@ -118,21 +118,21 @@ hr {
 }
 
 .first-paragraph::first-letter {
-  font-size: 6rem;
+  font-size: 4rem;
   color: rgba(252, 71, 5, 0.815);
   float: left;
   margin-right: 1rem;
 }
 
 .second-paragraph::first-letter {
-  font-size: 6rem;
+  font-size: 4rem;
   color: rgb(91, 161, 73);
   float: left;
   margin-right: 1rem;
   margin-bottom: 3rem;
 }
 .third-paragraph::first-letter {
-  font-size: 6rem;
+  font-size: 4rem;
   color: rgb(91, 161, 73);
   float: left;
   margin-right: 1rem;
