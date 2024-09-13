@@ -116,6 +116,10 @@ hr {
   grid-auto-columns: 1fr;
   align-items: center;
 }
+.second-paragraph, .third-paragraph, .fourth-paragraph { font-size: 2rem;
+text-align: end;
+grid-column: 2 / 2;
+}
 
 .first-paragraph::first-letter {
   font-size: 4rem;
