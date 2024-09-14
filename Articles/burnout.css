@@ -69,7 +69,7 @@ hr {
   font-size: 1.8rem;
   column-width: 25rem;
   text-align: justify;
-  word-spacing: 0.01mm;
+  word-spacing: 0mm;
 }
 
 .hero {
@@ -79,7 +79,7 @@ hr {
 
 .hero-title {
   text-align: center;
-  color: rgba(255, 68, 0, 0.89);
+  color: rgba(255, 68, 0, 0.911);
   font-size: 8rem;
   text-shadow: 1px 1px #f5f0f0;
 }
