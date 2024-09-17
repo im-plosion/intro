@@ -133,7 +133,7 @@ grid-column: 3 / 1;
   color: rgb(91, 161, 73);
   float: left;
   margin-right: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 .third-paragraph::first-letter {
   font-size: 4rem;
