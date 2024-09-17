@@ -123,28 +123,28 @@ grid-column: 3 / 1;
 
 .first-paragraph::first-letter {
   font-size: 4rem;
-  color: rgba(252, 71, 5, 0.815);
+  color: rgba(5, 133, 252, 0.815);
   float: left;
   margin-right: 1rem;
 }
 
 .second-paragraph::first-letter {
   font-size: 4rem;
-  color: rgb(91, 161, 73);
+  color: rgba(5, 133, 252, 0.815);
   float: left;
   margin-right: 1rem;
   margin-bottom: 2rem;
 }
 .third-paragraph::first-letter {
   font-size: 4rem;
-  color: rgb(91, 161, 73);
+  color: rgba(5, 133, 252, 0.815);
   float: left;
   margin-right: 1rem;
   margin-bottom: 3rem;
 }
 .fourth-paragraph::first-letter {
   font-size: 4rem;
-  color: rgb(91, 161, 73);
+  color: rgba(5, 133, 252, 0.815);
   float: left;
   margin-right: 1rem;
   margin-bottom: 3rem;
@@ -152,7 +152,7 @@ grid-column: 3 / 1;
 
 .fifth-paragraph::first-letter {
   font-size: 4rem;
-  color: rgb(91, 161, 73);
+  color: rgba(5, 133, 252, 0.815);
   float: left;
   margin-right: 1rem;
   margin-bottom: 3rem;
